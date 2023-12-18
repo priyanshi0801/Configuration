@@ -25,4 +25,4 @@ spotify.api.token.url=http://localhost:8901/callback
 management.endpoint.web.exposure.include=*
 management.endpoint.health.show-details=always
 #mongodb
-spring.data.mongodb.uri=mongodb+srv://tejajagadeep:tejajagadeep@cluster0.uplpa7y.mongodb.net/wishlist-db?retryWrites=true&w=majority
+spring.data.mongodb.uri=mongodb+srv://varshneypriyanshi08:Priya@12345@cluster0.d6uvayg.mongodb.net/spotify?retryWrites=true&w=majority
