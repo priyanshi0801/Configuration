@@ -11,8 +11,8 @@ server.port=8091
 #spotify
 spotify.account.url=https://accounts.spotify.com/api
 spotify.api.url=https://api.spotify.com/v1
-spotify.client.id=cfdbd6448f364fca80b7aa03228c64c9
-spotify.client.secret=090b5b954ed44f069afd13715b3d7da4
+spotify.client.id=8b13302fa091439da9e186b23e43d730
+spotify.client.secret=8c4d708e27ef425bbf90b9780faf0922
 spotify.redirect.uri=http://localhost:8901/api/v1/music/callback
 spotify.api.token.url=http://localhost:8901/callback
 
